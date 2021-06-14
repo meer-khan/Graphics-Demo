@@ -31,3 +31,12 @@
 
 
 <img src="https://user-images.githubusercontent.com/40295656/121869485-87bc2e80-cd1b-11eb-9a81-e6d6484be629.png" height = '500' width='1000'/> 
+
+
+<img src="https://user-images.githubusercontent.com/40295656/121869543-97d40e00-cd1b-11eb-8d89-2d713b138d03.png" height = '500' width='1000'/> 
+
+
+<img src="https://user-images.githubusercontent.com/40295656/121869651-b508dc80-cd1b-11eb-8540-e29dee4edf4c.png" height = '500' width='1000'/> 
+
+
+<img src="https://user-images.githubusercontent.com/40295656/121869679-bafebd80-cd1b-11eb-949d-1caa4695ee0c.png" height = '500' width='1000'/>
