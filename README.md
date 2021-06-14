@@ -11,6 +11,9 @@
 
 <img src="https://user-images.githubusercontent.com/40295656/121868344-4d9e5d00-cd1a-11eb-8486-7bb2b548480b.png" height = '500' width='1000'/> 
 
+
+<img src="https://user-images.githubusercontent.com/40295656/121869651-b508dc80-cd1b-11eb-8540-e29dee4edf4c.png" height = '750' width='400'/> 
+
 ## SHAMS Al KHAN :stuffed_flatbread: :green_salad: 	:curry: :icecream:
 
 
@@ -35,7 +38,6 @@
 
 
 
-<img src="https://user-images.githubusercontent.com/40295656/121869651-b508dc80-cd1b-11eb-8540-e29dee4edf4c.png" height = '500' width='1000'/> 
 
 
 <img src="https://user-images.githubusercontent.com/40295656/121869679-bafebd80-cd1b-11eb-949d-1caa4695ee0c.png" height = '500' width='1000'/>
